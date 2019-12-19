@@ -1,9 +1,9 @@
 using System;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Project.Models;
+using RPS.Models;
 using System.Collections.Generic;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace Project.Tests
+namespace RPS.Tests
 {
     [TestClass]
     public class ProjectTester
